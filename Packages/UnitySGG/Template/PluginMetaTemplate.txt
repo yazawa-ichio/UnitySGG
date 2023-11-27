@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: {{GUID}}
+labels:
+- RoslynAnalyzer
+PluginImporter:
+  serializedVersion: 2
+  executionOrder: {}
+  defineConstraints: []
+  isPreloaded: 0
+  isOverridable: 0
+  isExplicitlyReferenced: 1
+  validateReferences: 0
+  platformData:
+  - first:
+      : Any
+    second:
+      enabled: 0
+      settings:
